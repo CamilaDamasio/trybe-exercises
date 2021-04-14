@@ -1,3 +1,0 @@
-Curso Trybe
-
-Desenvolvimento WEB
