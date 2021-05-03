@@ -5,7 +5,7 @@ const input = document.getElementById('input');
 const myWebpage = document.getElementById('mySpotrybefy');
 
 /*
- Copie esse arquivo e edite apenas ele;
+ Copie esse arquivo e edite apenas ele; 
  Crie uma função que adicione a classe 'tech' ao elemento selecionado;
 1. Deve existir apenas um elemento com a classe 'tech'. Como você faz isso?
  Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
